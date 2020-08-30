@@ -14,6 +14,6 @@ steps:
   displayName: 'Run a one-line script rogers1 and rogers2&2 rogers3 rogers4 rogers5&567'
 
 - script: |
-    echo Add other tasks to build, test, and deploy your project.
+    echo Add other tasks to build, test, and deploy your project then make it exit.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
